@@ -1,0 +1,30 @@
+{
+    "cursos":[
+
+        {
+            "id":1,
+            "titulo": "React desde cero",
+            "image":"https://res.cloudinary.com/edteam/image/upload/v1582956135/GraphQL_desde_cero-v09.png",
+            "price": 20,
+            "profesor": "Beto Quiroga"
+        },{
+            "id":2,
+            "titulo": "HTML desde cero",
+            "image":"https://res.cloudinary.com/edteam/image/upload/v1583002082/Postgresql-v03.png",
+            "price": 0,
+            "profesor": "Alvaro Felipe"
+        },{
+            "id":3,
+            "titulo": "CSS desde cero",
+            "image":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-01/gcp.png",
+            "price": 20,
+            "profesor": "Beto Quiroga"
+        },{
+            "id":4,
+            "titulo": "GO desde cero",
+            "image":"https://drupal.ed.team/sites/default/files/styles/16_9_medium/public/imagenes-cdn-edteam/2020-03/Go-desde-cero.png",
+            "price": 40,
+            "profesor": "Beto Quiroga"
+        }
+    ]
+}
